@@ -15,5 +15,4 @@ You can view the live site <a href="https://smart-energy-meter-d2989.web.app/">h
 
 Please leave a star. Thank you!
 
-
-![smart-energy-meter](https://github.com/judithlk/smart-energy-meter/assets/104207025/4648de5f-7570-440a-9d2a-af4dfa4b8ad4)
+<img src="/src/smart-energy-meter.PNG">
