@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
+
+body {
+    background-color: #fefefe;
+    color: #008000;
+    font-family: "Red Hat Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.chart-container {
+    background-color: #1db478;
+    text-align: center;
+    padding-top: 2%;
+    max-width: 90%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.view-app {
+    /* border: 1px solid black; */
+    color: #efefef;
+    background-color: #009E60;
+    padding: 2%;
+}
