@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+<h1>Smart Energy Meter</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4>Hello! Thank you for checking this out.</h4>
 
-## Available Scripts
+This project is actually the web interface of a smart energy meter that my group at school built for our semester project. The project was challenging but fun, and it was an insightful experience. 
 
-In the project directory, you can run:
+This web app was built with <b>ReactJS</b> and <b>Firebase</b> was used to receive and update the app with real-time readings from our device.
+It was my first time working with Firebase as the backend of my project and I must say I enjoyed it.
 
-### `npm start`
+The charts are powered by <a href="https://apexcharts.com/">Apex Charts</a>, but you can go through the code to see how I tweaked them to get my desired output.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The responsiveness was taken care of using react-bootstrap <a href="https://www.npmjs.com/package/react-bootstrap">react-boostrap</a> and the icon is from <a href="https://fontawesome.com/">Font Awesome</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You can view the live site <a href="https://smart-energy-meter-d2989.web.app/">here</a>. It was hosted with from Google Firebase Console.
 
-### `npm test`
+Please leave a star. Thank you!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![smart-energy-meter](https://github.com/judithlk/smart-energy-meter/assets/104207025/4648de5f-7570-440a-9d2a-af4dfa4b8ad4)
